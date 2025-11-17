@@ -33,4 +33,4 @@ With many reasons to choose such a project, whether for enhanced development ski
 Link : https://s62-beast-buddy.onrender.com
 
 ## Frontend Deployment Link :
-link : https://s62-beast-buddy.pages.dev/
+link : https://s62-beast-buddy-git-main-john-roberts-projects-58719dee.vercel.app
